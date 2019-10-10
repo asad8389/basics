@@ -1,3 +1,3 @@
 # basics
 
-1. CalC
+C program to demonstrate calculator
